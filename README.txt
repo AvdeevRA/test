@@ -1,1 +1,0 @@
-It's test's project description
